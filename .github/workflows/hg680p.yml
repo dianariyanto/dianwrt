@@ -60,7 +60,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ env.BUILD_TARGETS }}_${{ env.OPENWRT_VERSION }}_${{ env.FILE_DATE }}
+        tag_name: hg680p_DianWrt_18.06.2_${{ env.FILE_DATE }}
         files: /workdir/*
         body: |
           DianWrt based on OpenWrt 18.06.2 for HG680P
