@@ -33,6 +33,7 @@ Default OpenWrt firmware for HG680P without any Bloatware that can make u feel l
 * https://loksado.com/2019/08/mengaktifkan-wifi-internal-hg680-p-di-armbian/
 * https://github.com/ophub/amlogic-s9xxx-openwrt
 * https://github.com/dianariyanto/openwrt
+* http://kujadi-tahu.blogspot.com/2019/07/mengobrak-abrik-stb-jadul-zte-b700v5.html
 
 ## License
 
