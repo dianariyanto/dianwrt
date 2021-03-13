@@ -44,7 +44,7 @@ jobs:
       id: build
       working-directory: /workdir
       run: |
-        wget -c https://download1645.mediafire.com/odxhr4iv33dg/ij3i6f5pck8wirw/DianWrt_hg680p_18.06.2.img.xz
+        wget -c http://download1645.mediafire.com/3jp2yusdkb6g/ij3i6f5pck8wirw/DianWrt_hg680p_18.06.2.img.xz
         echo "::set-output name=status::success"
         
     - name: Check space usage
