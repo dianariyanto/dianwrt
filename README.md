@@ -34,4 +34,4 @@ Default OpenWrt firmware for HG680P without any Bloatware that can make u feel l
 
 ## License
 
-[LICENSE](https://github.com/dianariyanto/openwrt/blob/main/LICENSE) © Dian Ariyanto
+[LICENSE](https://github.com/dianariyanto/dianwrt/blob/main/LICENSE) © Dian Ariyanto
