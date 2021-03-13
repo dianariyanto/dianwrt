@@ -18,7 +18,10 @@ on:
   watch:
     types: started
     if: github.event.repository.owner.id == github.event.sender.id
-    
+
+env:
+  TZ: Asia/Jakarta
+
 jobs:
   build:
     runs-on: ubuntu-18.04
