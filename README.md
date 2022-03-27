@@ -11,15 +11,6 @@ Default OpenWrt firmware for HG680P without any Bloatware that can make u feel l
 * Insert to your hg680p and boot.
 * Done.
 
-## Default Configuration
-| Info      | Value                   |
-| --------- | -----------             |
-| Ip        | 192.168.1.1             |
-| username  | root                    |
-| password  | none                    |
-| SSID	    | dianariyanto@OpenWrt.id |
-| password  | none                    |
-
 ## Preview
 ![DianWrt](/screenshot/1.png)
 ![OpenWrt for HG680p](/screenshot/2.png)
