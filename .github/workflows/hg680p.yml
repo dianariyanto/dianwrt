@@ -44,7 +44,7 @@ jobs:
       id: build
       working-directory: /workdir
       run: |
-        wget -c https://github.com/dianariyanto/lynx/releases/download/hg680p_DianWrt_21.02_2022.01.08.0456/DianWrt-21.02-k5.10.90-2022.01.08.0455.img.gz
+        wget -c https://github.com/dianariyanto/lynx/releases/download/hg680p_DianWrt_21.02_2022.01.08.0456/DianWrt-21.02-k5.4.170-2022.01.08.0454.img.gz
         echo "::set-output name=status::success"
         
     - name: Check space usage
@@ -66,7 +66,7 @@ jobs:
         tag_name: hg680p_DianWrt_21.02_${{ env.FILE_DATE }}
         files: /workdir/*
         body: |
-          DianWrt based on OpenWrt 21.02 for HG680P using kernel 5.10.90
+          DianWrt based on OpenWrt 21.02 for HG680P using kernel 5.4.170
           
           ## Firmware information
           * Default IP: 192.168.1.1
