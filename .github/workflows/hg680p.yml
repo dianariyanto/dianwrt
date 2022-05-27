@@ -44,7 +44,7 @@ jobs:
       id: build
       working-directory: /workdir
       run: |
-        wget -c https://github.com/dianariyanto/lynx/releases/download/hg680p_DianWrt_21.02_2022.01.08.0456/DianWrt-21.02-k5.4.170-2022.01.08.0454.img.gz
+        wget -c https://download1645.mediafire.com/kv2v846v6amg/w1wghm9z5u6pfru/openwrt_s905x_k5.10.113_2022.05.01.0233.img.gz
         echo "::set-output name=status::success"
         
     - name: Check space usage
