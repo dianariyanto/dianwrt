@@ -72,6 +72,6 @@ jobs:
           * Default IP: 192.168.1.1
           * Default username: root
           * Default password: passwd
-          * Default WIFI name: NAUFAL.NET
-          * Default WIFI password: podowingi
+          * Default WIFI name: DianWrt
+          * Default WIFI password: testtest
           * Install to EMMC: Login to OpenWrt → System → Amlogic Service → Install OpenWrt
